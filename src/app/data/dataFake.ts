@@ -3,7 +3,7 @@ export const dataFake = [
     "id":"1",
     "title": "PRETENDENTE SURPRESA É UM DOS MELHORES DORAMAS DA NETFIX",
     "description": "Nesse dorama você vai se encantar com a temática de comédia romântica.",
-    "photoCover":"https://sodoramasoficial.com.br/wp-content/uploads/2024/05/pretendente-surpresa-dorama.avif"
+    "photoCover": "/assets/imgs/PRETENDENTE-SURPRESAA.png"
   },
   {
     "id":"2",
@@ -13,7 +13,7 @@ export const dataFake = [
   },
   {
     "id":"3",
-    "title": "Dorama de Viagem: Explorando Destinos e Culturas",
+    "title": "Dorama de Viagem: Exasdasdasddddasdadasdasdasdadasssdas",
     "description": "“Goblin” é uma série de fantasia que conta a história de um ser imortal em busca de sua noiva humana.",
     "photoCover":"https://sodoramasoficial.com.br/wp-content/uploads/2024/11/goblin-dorama-cena-dorama-coreano-romance-1.jpeg"
   },
