@@ -14,27 +14,33 @@ export const dataFake = [
   },
   {
     id: '3',
-    title: 'Melhor Dorama de Época na Netflix',
+    title: 'AMOR OCULTO É MELHOR DORAMA CHINÊS DA NETFLIX',
+    description: 'Esse dorama fala de crescimento profissional e pessoal.',
+    photoCover: '/assets/imgs/amor-oculto-s.png',
+  },
+  {
+    id: '4',
+    title: 'Melhor Dorama de Época e Fantasia na Netflix',
     description:
       'Para os amantes de dramas históricos, Alquimia das Almas é sem dúvida o melhor.',
     photoCover: '/assets/imgs/Alchemy-of-Souls.png',
   },
   {
-    id: '4',
-    title: 'Dorama de Viagem',
+    id: '5',
+    title: 'Dorama de Romance e Fantasia',
     description:
       '“Goblin” é uma série de fantasia que conta a história de um ser imortal em busca de sua noiva humana.',
     photoCover: '/assets/imgs/Goblin.png',
   },
   {
-    id: '5',
+    id: '6',
     title: 'Melhor Dorama Clássico',
     description:
       'Uma Advogada Extraordinária conta a história de Woo Young-woo, uma advogada com autismo que trabalha em um grande escritório de advocacia.',
     photoCover: '/assets/imgs/uma-advogada-extraordinaria1.png',
   },
   {
-    id: '6',
+    id: '7',
     title: 'Melhor Dorama de Fantasia',
     description:
       'W Dois Mundos é um dorama inovador que mistura realidade e ficção.',
