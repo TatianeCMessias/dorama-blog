@@ -16,9 +16,10 @@
 .small-card__photo > img {
   width: 300px;
   min-width: 200px;
+  margin-left: 25px;
   margin-right: 20px;
-  border: 4px solid #909090; /* Adicionando borda */
-  border-radius: 10px; /* Borda arredondada */
+  border: 4px solid #909090;
+  border-radius: 10px;
   object-fit: cover;
   transition: transform 0.3s ease-in-out;
 }
