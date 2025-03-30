@@ -29,11 +29,6 @@
   margin: 10px 0;
 }
 
-.content__title hr {
-  width: 60%;
-  border: 1px solid #ccc;
-}
-
 .content__description {
   max-width: 70%;
   margin-top: 15px;

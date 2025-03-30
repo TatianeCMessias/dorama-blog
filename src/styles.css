@@ -6,7 +6,7 @@
   box-sizing: border-box;
 
   color:rgb(73, 71, 71);
-  font-family: 'Open Sans', sans-serif;
+
 }
 
 a{
@@ -20,6 +20,5 @@ body{
   background-size: cover;
   min-height: 100vh;
   margin: 0;
-
 }
 
