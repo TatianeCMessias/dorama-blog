@@ -12,10 +12,12 @@
 
 li > a {
   color: rgb(74, 69, 69);
-  background-color: rgb(237, 201, 219);
-  border-radius: 5px;
 }
 
 li > a:hover{
-  background-color: rgb(235, 165, 220);
+    background-color: rgb(238, 220, 229);
+    border-radius: 5px;
 }
+
+
+
