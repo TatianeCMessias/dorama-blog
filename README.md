@@ -4,9 +4,7 @@
 </div>
 
 ## Introdução:
-O objetivo deste projeto é oferecer uma experiência interativa e informativa para os fãs de doramas, 
-proporcionando um espaço dedicado às últimas novidades, resenhas e discussões sobre séries asiáticas. 
-O blog visa engajar a comunidade por meio de conteúdos relevantes e uma interface intuitiva.
+O objetivo deste projeto é orefecer uma plataforma especializada em doramas, oferecendo resenhas detalhadas, notícias atualizadas e listas temáticas de recomendações para os fãs do gênero.
 
 ## Requisitos:
 - Node.js (versão 16.20.2)
@@ -24,34 +22,33 @@ O blog visa engajar a comunidade por meio de conteúdos relevantes e uma interfa
 
 ## Como Executar o Projeto:
 
-## Clonar o repositório:
+### Clonar o repositório:
 
 ```
 git clone https://github.com/TatianeCMessias/Dorama-Blog.git
 ```
 
-## Entrar na pasta do projeto:
+### Entrar na pasta do projeto:
 ```
 cd dorama-blog
 ```
 
-## Instalar as dependências:
+### Instalar as dependências:
 ```
 npm install
 ```
 
-## Executar o servidor de desenvolvimento:
+### Executar o servidor de desenvolvimento:
 ```
 ng serve
 ```
 
-## Acessar o blog no navegador:
+### Acessar o blog no navegador:
 ```
 http://localhost:4200/
 ```
 
-## Conclusão:
-O Blog de Doramas é uma plataforma interativa para os fãs acompanharem as novidades do mundo dos doramas. 
-O projeto pode ser expandido com novas funcionalidades, como um sistema de avaliação de séries e um fórum para discussões.
+# Autora:
+[TatianeCMessias](https://www.linkedin.com/in/tatianecmessias/)
 
 [Deploy Vercel](https://dorama-blog.vercel.app/)
