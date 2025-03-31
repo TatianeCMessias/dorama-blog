@@ -16,9 +16,8 @@ O objetivo deste projeto é orefecer uma plataforma especializada em doramas, of
 - GitHub
 
 ## Principais Funcionalidades:
-- Publicação de resenhas detalhadas sobre doramas.
-- Notícias e novidades do mundo dos doramas.
-- Listas temáticas com recomendações de séries.
+- Publicação de sinopse dos doramas.
+- Fotos dos doramas.
 
 ## Como Executar o Projeto:
 
