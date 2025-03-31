@@ -47,7 +47,6 @@ ng serve
 http://localhost:4200/
 ```
 
-# Autora:
-[TatianeCMessias](https://www.linkedin.com/in/tatianecmessias/)
+# Autora: [TatianeCMessias](https://www.linkedin.com/in/tatianecmessias/)
 
 [Deploy Vercel](https://dorama-blog.vercel.app/)
