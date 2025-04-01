@@ -4,7 +4,7 @@
 </div>
 
 ## Introdução:
-O objetivo deste projeto é orefecer uma plataforma especializada em doramas, oferecendo sinopses detalhadas.
+Este projeto tem como objetivo oferecer uma plataforma especializada em doramas, proporcionando aos usuários sinopses detalhadas, imagens de capa de alta qualidade.
 
 ## Requisitos:
 - Node.js (versão 16.20.2)
