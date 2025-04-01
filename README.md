@@ -4,7 +4,7 @@
 </div>
 
 ## Introdução:
-O objetivo deste projeto é orefecer uma plataforma especializada em doramas, oferecendo resenhas detalhadas, notícias atualizadas e listas temáticas de recomendações para os fãs do gênero.
+O objetivo deste projeto é orefecer uma plataforma especializada em doramas, oferecendo sinopses detalhadas.
 
 ## Requisitos:
 - Node.js (versão 16.20.2)
