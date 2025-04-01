@@ -10,7 +10,6 @@ Este projeto tem como objetivo oferecer uma plataforma especializada em doramas,
 - Node.js (versão 16.20.2)
 - Angular CLI (versão 14.2.13)
 - Visual Studio Code
-- Navegador moderno (Chrome, Edge)
 
 ## Serviço Utilizado: 
 - GitHub
