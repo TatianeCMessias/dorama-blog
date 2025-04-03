@@ -9,10 +9,12 @@ Este projeto tem como objetivo oferecer uma plataforma especializada em doramas,
 ## Requisitos:
 - Node.js (versão 16.20.2)
 - Angular CLI (versão 14.2.13)
+- Typescript (versão 5.7.3)
 - Visual Studio Code
 
 ## Serviço Utilizado: 
 - GitHub
+- Vercel
 
 ## Principais Funcionalidades:
 - Publicação de sinopse dos doramas.
@@ -46,6 +48,6 @@ ng serve
 http://localhost:4200/
 ```
 
-# Autora: [TatianeCMessias](https://www.linkedin.com/in/tatianecmessias/)
+## Autora: [TatianeCMessias](https://www.linkedin.com/in/tatianecmessias/)
 
 [Deploy Vercel](https://dorama-blog.vercel.app/)
