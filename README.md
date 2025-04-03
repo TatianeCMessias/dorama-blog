@@ -9,7 +9,7 @@ Este projeto tem como objetivo oferecer uma plataforma especializada em doramas,
 ## Requisitos:
 - Node.js (versão 16.20.2)
 - Angular CLI (versão 14.2.13)
-- Typescript (versão 5.7.3)
+- TypeScript (versão 5.7.3)
 - Visual Studio Code
 
 ## Serviço Utilizado: 
